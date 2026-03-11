@@ -17,6 +17,7 @@ Key characteristics include:
 - Transaction amount
 - Transaction time
 - Class label indicating fraud (1) or normal transaction (0)
+- From Kaggle:/content/creditcard.csv
 
 Technologies Used
 
